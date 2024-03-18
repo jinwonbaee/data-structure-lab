@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{d868e7d1-ce9e-4106-a4ff-3ff72cf8fa22}</ProjectGuid>
-    <RootNamespace>Chap01Findmax</RootNamespace>
+    <ProjectGuid>{c7cce48c-c3c5-4e68-b847-b7bef7c26cca}</ProjectGuid>
+    <RootNamespace>Chap01FindMax</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="find_max.cpp" />
+    <ClCompile Include="find_Max.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
