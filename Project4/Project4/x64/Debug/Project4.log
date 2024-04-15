@@ -1,0 +1,11 @@
+﻿  lec7.cpp
+C:\Users\USER\Documents\data-structure-lab-2024\Project4\Project4\lec7.cpp(3,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\USER\Documents\data-structure-lab-2024\Project4\Project4\lec7.cpp(7,3): error C3861: 'print': 식별자를 찾을 수 없습니다.
+C:\Users\USER\Documents\data-structure-lab-2024\Project4\Project4\lec7.cpp(8,3): error C3861: 'gets': 식별자를 찾을 수 없습니다.
+C:\Users\USER\Documents\data-structure-lab-2024\Project4\Project4\lec7.cpp(9,3): error C3861: 'print': 식별자를 찾을 수 없습니다.
+C:\Users\USER\Documents\data-structure-lab-2024\Project4\Project4\lec7.cpp(10,3): error C3861: 'gets': 식별자를 찾을 수 없습니다.
+C:\Users\USER\Documents\data-structure-lab-2024\Project4\Project4\lec7.cpp(11,3): error C3861: 'print': 식별자를 찾을 수 없습니다.
+C:\Users\USER\Documents\data-structure-lab-2024\Project4\Project4\lec7.cpp(12,3): error C3861: 'gets': 식별자를 찾을 수 없습니다.
+C:\Users\USER\Documents\data-structure-lab-2024\Project4\Project4\lec7.cpp(18,3): error C3861: 'print': 식별자를 찾을 수 없습니다.
+C:\Users\USER\Documents\data-structure-lab-2024\Project4\Project4\lec7.cpp(20,4): error C3861: 'print': 식별자를 찾을 수 없습니다.
+C:\Users\USER\Documents\data-structure-lab-2024\Project4\Project4\lec7.cpp(22,5): error C3861: 'print': 식별자를 찾을 수 없습니다.
